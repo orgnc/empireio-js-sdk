@@ -1,0 +1,22 @@
+{
+  "name": "@empireio/sdk",
+  "version": "0.0.1",
+  "description": "Empire Platform JS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empireio/empireio-js-sdk.git"
+  },
+  "keywords": [
+    "empireio"
+  ],
+  "author": "Empire Engineering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/empireio/empireio-js-sdk/issues"
+  },
+  "homepage": "https://github.com/empireio/empireio-js-sdk#readme"
+}
